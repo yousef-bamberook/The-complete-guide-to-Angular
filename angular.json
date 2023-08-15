@@ -99,5 +99,7 @@
       }
     }
   },
-  "defaultProject": "The-complete-guide-to-Angular"
+  "cli": {
+    "analytics": false
+  }
 }
